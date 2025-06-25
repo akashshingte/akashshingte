@@ -9,8 +9,6 @@
 - Thrive in tackling **ambiguous and open-ended problems**
 - Strong in **C++** and **Scala**; previous experience with **Python**
 - Enjoy building **high-performance**, **reliable infrastructure** at scale
-
-- 
   
 <!--
 **akashshingte/akashshingte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
