@@ -14,7 +14,7 @@
 ## Work experience
 
 - **ChaosSearch** – Software Engineer  
-  *Query Team* — Worker on some core query features
+  *Query Team* — Worked on some core query features
 
   
 - **Orchard (Sony Music Entertainment)** – Software Engineer  
